@@ -6,3 +6,6 @@ def calc(x, y):
 
 
 # Commit from master
+def advanced_calc():
+    pass
+    # in progress
