@@ -3,3 +3,7 @@ def main():
 
 def calc(x, y):
     return x + y
+
+def advanced_calc():
+    pass
+    # in progress
